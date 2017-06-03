@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">Quiz App</string>
+    <string name="name">LET\'S TEST YOUR GK...</string>
+
+    <string name="ques1">Q1 Which of the following are primary colors?</string>
+    <string name="ques1_option1">Red</string>
+    <string name="ques1_option2">Blue</string>
+    <string name="ques1_option3">Green</string>
+    <string name="ques1_option4">Yellow</string>
+
+    <string name="ques2">Q2 Which gas is used as a disinfectant in drinking water?</string>
+    <string name="ques2_option1">Hydrogen</string>
+    <string name="ques2_option2">Oxygen</string>
+    <string name="ques2_option3">Chlorine</string>
+
+    <string name="ques3">Q3 Durand Cup is associated with the game of :- </string>
+    <string name="ques3_option1">Cricket</string>
+    <string name="ques3_option2">Football</string>
+    <string name="ques3_option3">Hockey</string>
+    <string name="ques3_option4">Volleyball</string>
+
+    <string name="ques4">Q4 Name of First Indian Missile :- </string>
+    <string name="ques4_hint">Answer here</string>
+
+    <string name="ques5">Q5 Which blood cells are called \'Soldiers\' of the body?</string>
+    <string name="ques5_option1">WBC</string>
+    <string name="ques5_option2">Platelets</string>
+    <string name="ques5_option3">RBC</string>
+    <string name="ques5_option4">All</string>
+
+    <string name="ques6">Q6 Guru Gobind Singh was :- </string>
+    <string name="ques6_option1">The 10th Guru of the Sikhs</string>
+    <string name="ques6_option2">Founder of Khalsa, the inner council of the Sikhs in 1699</string>
+    <string name="ques6_option3">Author of Dasam Granth</string>
+
+    <string name="ques7">Q7 The liquid metal is :- </string>
+    <string name="ques7_hint">Answer here</string>
+
+    <string name="ques8">Q8 Technically, tomatoes are :-</string>
+    <string name="ques8_option1">Fruits</string>
+    <string name="ques8_option2">Vegetables</string>
+
+    <string name="ans_text1">Red, Blue, Green</string>
+    <string name="ans_text2">Chlorine</string>
+    <string name="ans_text3">Football</string>
+    <string name="ans_text4">Prithvi</string>
+    <string name="ans_text5">WBC</string>
+    <string name="ans_text6">All</string>
+    <string name="ans_text7">Mercury</string>
+    <string name="ans_text8">Fruits</string>
+
+    <string name="ans">Ans :</string>
+    <string name="submit">SUBMIT</string>
+    <string name="score">Your SCORE is : </string>
+    <string name="reset">RESET</string>
+
+</resources>
